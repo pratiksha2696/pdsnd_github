@@ -20,3 +20,5 @@ The project uses Python libraries such as Pandas and NumPy for data analysis and
 - washington.csv
 
 ### Credits
+This project was inspired by Udacity's Data Analyst Nanodegree program.
+I consulted the official Pandas and NumPy documentation for data analysis techniques and syntax.
