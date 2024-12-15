@@ -22,3 +22,8 @@ The project uses Python libraries such as Pandas and NumPy for data analysis and
 ### Credits
 This project was inspired by Udacity's Data Analyst Nanodegree program.
 I consulted the official Pandas and NumPy documentation for data analysis techniques and syntax.
+
+### How to Run the Project
+**Clone the Repository**
+Clone the repository to your local machine by running the following command:
+git clone https://github.com/pratiksha2696/pdsnd_github
