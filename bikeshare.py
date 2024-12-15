@@ -1,6 +1,8 @@
-import time
-import pandas as pd
-import numpy as np
+
+# Import necessary libraries
+import time  # For handling time-related operations
+import pandas as pd  # For data manipulation and analysis
+import numpy as np  # For numerical operations and array handling
 
 CITY_DATA = { 'chicago': "C:\\Users\\Pratiksha\\PythonWork\\Bikeshare\\chicago.csv",
               'new york city': 'C:\\Users\\Pratiksha\\PythonWork\\Bikeshare\\new_york_city.csv',
