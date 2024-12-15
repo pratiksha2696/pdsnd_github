@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+# Data files location. Change location to connect your data files
 CITY_DATA = { 'chicago': "C:\\Users\\Pratiksha\\PythonWork\\Bikeshare\\chicago.csv",
               'new york city': 'C:\\Users\\Pratiksha\\PythonWork\\Bikeshare\\new_york_city.csv',
               'washington': 'C:\\Users\\Pratiksha\\PythonWork\\Bikeshare\\washington.csv' }
